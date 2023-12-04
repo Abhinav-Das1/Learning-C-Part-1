@@ -6,7 +6,6 @@ which is interesting.
 int main()
 {
     int a = 4;
-    // int b= 8.5; // not recommended because 8.5 is not an integer
     float b = 8.5;
     char c = 'X';
     int d = 100;
